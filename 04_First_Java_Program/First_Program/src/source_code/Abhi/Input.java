@@ -8,7 +8,7 @@ public class Input {
         //Integer Input
         Scanner input = new Scanner(System.in);
         int roll_no = input.nextInt();
-        System.out.println("Your roll no is "+roll_no);
+        System.out.println("Your roll no is "+ roll_no);
 
         //Float Input
         float marks = input.nextFloat();
