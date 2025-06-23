@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89d5cbd8-245c-4d6e-858e-c46f66f1ac76" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/source_code/Abhi/primitive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/source_code/Abhi/primitive.java" afterDir="false" />
-    </list>
+    <list default="true" id="89d5cbd8-245c-4d6e-858e-c46f66f1ac76" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -43,7 +41,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/abhia/Desktop/JAVA/04_First_Java_Program/First_Program",
     "onboarding.tips.debug.path": "C:/Users/abhia/Desktop/JAVA/04_First_Java_Program/First_Program/src/Main.java"
   }
@@ -77,20 +75,5 @@
       <updated>1747812125015</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/source_code/Abhi/Input.java</url>
-          <line>5</line>
-          <properties class="source_code.Abhi.Input" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
