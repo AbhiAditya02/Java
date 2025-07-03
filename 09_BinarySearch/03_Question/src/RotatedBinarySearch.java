@@ -1,8 +1,14 @@
 public class RotatedBinarySearch {
     public static void main(String[] args) {
-
+        int[] num = {3, 4, 5, 6, 7, 0, 1, 2};
+        int ans = binarySearch(num, 4, 0, findPivot(num));
+        if (ans != -1){
+            System.out.println(ans);
+        } else {
+            System.out.println(binarySearch(num, 4, findPivot(num)+1, num.length));
+        }
     }
-    //Finding piviot
+    //Finding pivot
     static int findPivot(int[] arr) {
         int start = 0;
         int end = arr.length - 1;
@@ -27,7 +33,7 @@ public class RotatedBinarySearch {
         return -1;
     }
     //Applying Binary Search
-    int binarySearch(int[] arr, int target, int start, int end) {
+    static int binarySearch(int[] arr, int target, int start, int end) {
         while(start <= end) {
             int mid = start + (end - start) / 2;
             int value = arr[mid];
@@ -38,7 +44,6 @@ public class RotatedBinarySearch {
             } else {
                 start = mid + 1;
             }
-
         }
         return -1;
     }
