@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Recursion/01_Recursion.iml" filepath="$PROJECT_DIR$/01_Recursion/01_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/01_code.iml" filepath="$PROJECT_DIR$/.idea/01_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Recursion/02_Recursion.iml" filepath="$PROJECT_DIR$/02_Recursion/02_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Recursion_Array/03_Recursion_Array.iml" filepath="$PROJECT_DIR$/03_Recursion_Array/03_Recursion_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Recursion_Pattern/04_Recursion_Pattern.iml" filepath="$PROJECT_DIR$/04_Recursion_Pattern/04_Recursion_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Recursion_String/05_Recursion_String.iml" filepath="$PROJECT_DIR$/05_Recursion_String/05_Recursion_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Recursion_Permutation/06_Recursion_Permutation.iml" filepath="$PROJECT_DIR$/06_Recursion_Permutation/06_Recursion_Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maze_Problems/Maze_Problems.iml" filepath="$PROJECT_DIR$/Maze_Problems/Maze_Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
+    </modules>
+  </component>
+</project>

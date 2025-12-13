@@ -34,16 +34,12 @@ public class Ques6 {
 
         if (row < maze.length - 1) // Down
             allPath(path + "D ", maze, row + 1, col, pathMatrix, step + 1);
-
         if (row > 0) // Top
             allPath(path + "U ", maze, row - 1, col, pathMatrix, step + 1);
-
         if (col < maze[0].length - 1) // Right
             allPath(path + "R ", maze, row, col + 1, pathMatrix, step + 1);
-
         if (col > 0) // Left
             allPath(path + "L ", maze, row, col - 1, pathMatrix, step + 1);
-
         // when returning back to the previous call undo the changes
         maze[row][col] = true;
         pathMatrix[row][col] = 0;
